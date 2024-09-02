@@ -1,1 +1,1 @@
-# odin-recipes
+# To practice all the HTML knowledge I've got!
